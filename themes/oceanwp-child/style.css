@@ -13,6 +13,6 @@
 */
 
 #site-navigation-wrap .dropdown-menu>li>a .nav-arrow {
-    padding-left: 0px; !important
+    padding-left: 0; !important
     line-height: 1;
 }
