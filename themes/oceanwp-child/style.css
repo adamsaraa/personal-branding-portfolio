@@ -12,10 +12,12 @@
  Text Domain:  oceanwpchild
 */
 
+/*make the arrow disappear from the dropdown menu*/
 .fa-angle-down:before {
     display: none;
 }
 
+/*make the gap disappear that the arrow made*/
 #site-navigation-wrap .dropdown-menu>li>a .nav-arrow {
     margin-right: -6px;
 }
